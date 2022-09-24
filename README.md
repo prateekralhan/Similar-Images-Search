@@ -6,12 +6,13 @@ A streamlit based webapp to search for similar images as per the user's input (t
 * Simply run the command ***pip install -r requirements.txt*** to install the necessary dependencies.
 
 ## Usage:
-1. Simply run the command: 
+1. Head over to [this link](https://github.com/ternaus/getsimilar) and follow the steps to generate/save the API Token. 
+2. Simply run the command: 
 ```
 streamlit run app.py
 ```
-2. Navigate to http://localhost:8501 in your web-browser.
-3. By default, streamlit allows us to upload files of **max. 200MB**. If you want to have more size for uploading images, execute the command :
+3. Navigate to http://localhost:8501 in your web-browser.
+4. By default, streamlit allows us to upload files of **max. 200MB**. If you want to have more size for uploading images, execute the command :
 ```
 streamlit run app.py --server.maxUploadSize=1028
 ```
