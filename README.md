@@ -24,12 +24,15 @@ streamlit run app.py --server.maxUploadSize=1028
 ------------
 
 * Based on user's text prompt
+
 ![1](https://user-images.githubusercontent.com/29462447/192104200-8f1de826-09f3-49e4-8aaf-6cb938fb93de.gif)
 
 * Based on an Image URL
+
 ![2](https://user-images.githubusercontent.com/29462447/192104193-6805eee2-d402-473e-8b76-40b4c8682e4c.gif)
 
 * Based on an Image uploaded by the user
+
 ![3](https://user-images.githubusercontent.com/29462447/192104376-d49468c0-880c-4f79-8deb-c21830845a1f.gif)
 
 
